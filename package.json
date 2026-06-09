@@ -12,6 +12,8 @@
     "ready": "vp check && vp run -r test && vp run -r build",
     "dev": "vp run website#dev",
     "build": "vp run build",
+    "deploy:api": "wrangler deploy -c apps/api/wrangler.json",
+    "deploy:website": "wrangler pages deploy apps/website/dist --project-name pao-finder",
     "prepare": "vp config"
   },
   "dependencies": {
@@ -20,7 +22,8 @@
     "vue-i18n": "11"
   },
   "devDependencies": {
-    "vite-plus": "catalog:"
+    "vite-plus": "catalog:",
+    "wrangler": "^3.109.0"
   },
   "overrides": {
     "vite": "catalog:",
