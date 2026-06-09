@@ -1,4 +1,10 @@
-# \\PAO Finder
+# PAO Finder
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Built with Bun](https://img.shields.io/badge/Built%20with-Bun-black?logo=bun&logoColor=fbf0df)](https://bun.sh)
+[![Vue 3](https://img.shields.io/badge/Vue-3-emerald?logo=vue.js)](https://vuejs.org/)
+[![Cloudflare Workers](https://img.shields.io/badge/Workers-Cloudflare-orange?logo=cloudflare)](https://workers.cloudflare.com/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind-CSS-blue?logo=tailwind-css)](https://tailwindcss.com/)
 
 **PAO Finder** is an open community initiative designed to help Filipinos quickly locate their corresponding regional Public Attorney's Office (PAO) and check their provisional eligibility for free legal aid in the Philippines.
 
