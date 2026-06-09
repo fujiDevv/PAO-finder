@@ -1,4 +1,4 @@
-# ⚖️ PAO Finder
+# \\PAO Finder
 
 **PAO Finder** is an open community initiative designed to help Filipinos quickly locate their corresponding regional Public Attorney's Office (PAO) and check their provisional eligibility for free legal aid in the Philippines.
 
@@ -6,18 +6,18 @@ Built with **Vue 3, Vite, Tailwind CSS, and Cloudflare Workers**, the applicatio
 
 ---
 
-## 🌟 Key Features
+## Key Features
 
-- 📍 **Geographic locator:** A responsive, autocomplete search for provinces, cities, and regions to resolve which regional bureau covers their locality.
-- 🏛️ **Satellite Office Support:** Displays both the main regional headquarters and nested satellite bureaus (e.g., MIMAROPA and Zamboanga Peninsula).
-- 🗺️ **One-click Maps Integration:** Instant links to view directories and map paths directly on Google Maps.
-- 📊 **Indigency Income Calculator:** Interactive eligibility calculator supporting different location zones (Metro Manila, Other Cities, Municipalities) and statutory deductions (SSS, Pag-IBIG, PhilHealth).
-- 🌐 **Tagalog & English Bilingual Support:** Fully localized interface with Vue I18n for maximum accessibility.
-- ⚡ **Offline-First Lookup Fallback:** Standalone search caching that falls back to local data if the Edge worker API is unreachable or during local development.
+- **Geographic locator:** A responsive, autocomplete search for provinces, cities, and regions to resolve which regional bureau covers their locality.
+- **Office Support:** Displays both the main regional headquarters and nested satellite bureaus (e.g., MIMAROPA and Zamboanga Peninsula).
+- **One-click Maps Integration:** Instant links to view directories and map paths directly on Google Maps.
+- **Income Calculator:** Interactive eligibility calculator supporting different location zones (Metro Manila, Other Cities, Municipalities) and statutory deductions (SSS, Pag-IBIG, PhilHealth).
+- **Bilingual Support:** Fully localized interface with Vue I18n for maximum accessibility.
+- **Offline-First Lookup Fallback:** Standalone search caching that falls back to local data if the Edge worker API is unreachable or during local development.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 This repository is organized as a **Vite+ monorepo** managed with Bun:
 
@@ -34,7 +34,7 @@ This repository is organized as a **Vite+ monorepo** managed with Bun:
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -62,7 +62,7 @@ You must have [Bun](https://bun.sh/) and Node.js installed on your machine.
 
 ---
 
-## 🚀 Running Locally
+## Running Locally
 
 - **Start the website dev server:**
 
@@ -81,7 +81,7 @@ You must have [Bun](https://bun.sh/) and Node.js installed on your machine.
 
 ---
 
-## 💎 Validation & Build
+## Validation & Build
 
 Run the following commands to check quality and compile for production:
 
@@ -100,7 +100,7 @@ Run the following commands to check quality and compile for production:
 
 ---
 
-## 🌐 Deployment
+## Deployment
 
 ### 1. Cloudflare Workers API
 
@@ -122,10 +122,10 @@ Connect your GitHub repository to Cloudflare Pages:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
 
-## 🤝 Contributing
+## Contributing
 
 Contributions from the community are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
